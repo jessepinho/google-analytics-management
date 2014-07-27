@@ -9,4 +9,7 @@ Gem::Specification.new do |s|
   s.files       = ['lib/google-analytics-management.rb']
   s.homepage    = 'https://github.com/jessepinho/google-analytics-management'
   s.license     = 'MIT'
+
+  s.add_development_dependency 'rspec'
+  s.add_runtime_dependency 'google-api-client'
 end
