@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    google-analytics-management (0.0.0)
+    google_analytics_management (0.0.0)
       google-api-client
 
 GEM
@@ -52,5 +52,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  google-analytics-management!
+  google_analytics_management!
   rspec
